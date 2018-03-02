@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">navigationtoolbardemo</string>
+
+    <string name="navigation_drawer_open">Navigation open</string>
+    <string name="navigation_drawer_close">Navigation close</string>
+
+</resources>
